@@ -53,3 +53,5 @@ Defense has park mark.
 Defense has park cross.
 
 Defense has major.
+
+Defense is game cond.
