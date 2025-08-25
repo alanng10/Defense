@@ -55,3 +55,5 @@ Defense has park cross.
 Defense has major.
 
 Defense is game cond.
+
+Defense is defense with endgame control.
