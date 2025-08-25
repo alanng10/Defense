@@ -67,3 +67,5 @@ Defense is defense with endgame only.
 Defense is defense with endgame worth.
 
 Defense not include Arti tool.
+
+Arti tool none gain in defense endgame.
