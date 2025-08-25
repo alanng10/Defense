@@ -63,3 +63,5 @@ Defense is defense with endgame gain.
 Defense is defense with endgame.
 
 Defense is defense with endgame only.
+
+Defense is defense with endgame worth.
