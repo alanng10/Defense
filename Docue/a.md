@@ -57,3 +57,5 @@ Defense has major.
 Defense is game cond.
 
 Defense is defense with endgame control.
+
+Defense is defense with endgame gain.
