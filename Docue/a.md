@@ -59,3 +59,5 @@ Defense is game cond.
 Defense is defense with endgame control.
 
 Defense is defense with endgame gain.
+
+Defense is defense with endgame.
