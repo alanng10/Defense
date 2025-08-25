@@ -72,6 +72,8 @@ Arti tool none gain in defense endgame.
 
 Arti tool none worth in defense endgame.
 
+Arti tool none dark in defense endgame.
+
 Arti tool none mark in defense endgame.
 
 Arti tool none park in defense endgame.
